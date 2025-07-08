@@ -1,6 +1,6 @@
 # 1000Base-LX-Transceiver-for-IP-Cameras
 Versitron’s 1000Base SFP transceivers—including LX, ZX, and DDM-equipped models—deliver long-range, high-speed fiber connectivity for IP cameras, metro networks, and enterprise infrastructure.
-# 1000Base-LX Transceiver for IP Cameras | Gigabit SFP 1000Base-LX 1310nm | 1000Base-ZX SFP for 80km Range | 1000Base Fiber Transceiver with DDM
+# Versitron | 1000Base-LX Transceiver for IP Cameras | Gigabit SFP 1000Base-LX 1310nm | 1000Base-ZX SFP for 80km Range | 1000Base Fiber Transceiver with DDM
 
 Versitron’s 1000Base fiber transceivers offer high-speed, long-distance optical connectivity for surveillance, enterprise, and industrial applications. From the **1000Base-LX transceiver for IP cameras** to the **1000Base-ZX SFP for 80km range**, these modules deliver reliable, interference-free data transmission with optional DDM functionality for real-time monitoring. Designed for use in fiber-based Ethernet systems, they are ideal for bridging long-range connections in secure, high-performance networks.
 
